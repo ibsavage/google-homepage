@@ -4,3 +4,12 @@
 #search {
     text-align: center;
 }
+#buttons {
+    text-align: center;
+}
+#googleSearch {
+    display: inline-block;
+}
+#imFeelingLucky {
+    display: inline-block;
+}
